@@ -11,3 +11,112 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.leftbar{
+  
+  background-color: #4e73df;
+}
+
+
+
+#viewport{
+  display: flex;
+  justify-content: flex-start;
+}
+
+.Dashboardheader{
+  display:flex;
+  justify-content:space-between;
+}
+
+.Dashboardrow1{
+  display:flex;
+  justify-content:space-evenly;
+}
+
+.Buttonsheader{
+  display:flex;
+  justify-content:left;
+
+}
+
+.splittwo{
+  display:flex;
+  justify-content:space-around;
+  gap:2rem;
+}
+
+.btn-circle{
+  btn-border-radius: 50%;
+}
+
+.bg-gray-100{
+  background-color: #f8f9fa;
+}
+.bg-gray-200{
+  background-color: #e9ecef;
+}
+.bg-gray-300{
+  background-color: #dee2e6;
+}
+.bg-gray-400{
+  background-color: #ced4da;
+}
+.bg-gray-500{
+  background-color: #adb5bd;
+}
+.bg-gray-600{
+  background-color: #6c757d;
+}
+.bg-gray-700{
+  background-color: #495057;
+}
+.bg-gray-800{
+  background-color: #343a40;
+}
+.bg-gray-900{
+  background-color: #212529;
+}
+
+.bg-gray-100-txt{
+  background-color: #212529;
+  color:#f8f9fa;
+}
+.bg-gray-200-txt{
+  background-color: #343a40;
+  color: #e9ecef;
+}
+.bg-gray-300-txt{
+  background-color: #495057;
+  color: #dee2e6;
+}
+.bg-gray-400-txt{
+  background-color: #6c757d;
+  color: #ced4da;
+}
+.bg-gray-500-txt{
+  background-color: #adb5bd;
+  color: #adb5bd;
+}
+.bg-gray-600-txt{
+  
+  background-color: #ced4da;
+  color: #6c757d;
+}
+.bg-gray-700-txt{
+  
+  background-color: #dee2e6;
+  color: #495057;
+}
+.bg-gray-800-txt{
+  
+  background-color: #e9ecef;
+  color: #343a40;
+}
+.bg-gray-900-txt{
+  
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+
